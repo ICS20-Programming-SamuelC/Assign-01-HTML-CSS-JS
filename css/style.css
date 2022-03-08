@@ -1,0 +1,19 @@
+/* Created by: Samuel Carlson
+* Created on: Feb 2022
+*This CSS file defines style for index.html
+*ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: Crimson;
+  }
+h1 {
+  background-color: rgb(252, 250, 250);
+  color: hsl(223°, 84%, 68%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #B22222
+}
