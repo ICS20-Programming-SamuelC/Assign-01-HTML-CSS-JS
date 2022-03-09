@@ -5,7 +5,7 @@
 */
 
 body {
-  background-color: Crimson;
+  background-color: CornflowerBlue;
   }
 h1 {
   background-color: rgb(252, 250, 250);
@@ -16,4 +16,10 @@ h1 {
 
 p {
   background-color: #B22222
+}
+
+body {
+
+  color: darkblue;
+
 }
